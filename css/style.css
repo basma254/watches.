@@ -1046,7 +1046,7 @@ footer{
         grid-template-columns: 1fr;
     }
     #main .main-img{
-        width: 300px;
+        width: 250px;
         text-align: center;
         padding-left: 90px;
         height: auto;
@@ -1062,14 +1062,19 @@ footer{
         font-size: 2rem;
     }
     .Product-grid-half .Product-grid-box strong{
-        font-size: 8px;
+        font-size: 9px;
 
     }
+    
+    .Product-grid-half .Product-grid-box span{
+        font-size: 8px;
+    }
+
     .Product-grid-half .Product-grid-box a{
         width: 63px;
     }
     .Product-grid-half .Product-grid-box img{
-        width: 100px;
+        width: 70px;
     }
     
 }
