@@ -1046,11 +1046,14 @@ footer{
         grid-template-columns: 1fr;
     }
     #main .main-img{
-        width: 350px;
+        width: 300px;
         text-align: center;
         padding-left: 90px;
         height: auto;
         max-width: 100%;
+    }
+    #main .main-text{
+        width: 90%;
     }
     .Product-grid-2 .Product-grid-text strong{
         font-size: 2.3rem;
