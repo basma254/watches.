@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Rolex / Black / Women",
+        "price": 520,
+        "image": "images/رولكس نساء3.webp"
+    },
+    {
+        "id": 2,
+        "name": "Casio / Blue / Women",
+        "price": 220,
+        "image": "images/كاسيو11.png"
+    },
+    {
+        "id": 3,
+        "name": "Apple / Black / Men",
+        "price": 250,
+        "image": "images/ابل رجال6.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Apple / Simon / Women",
+        "price": 420,
+        "image": "images/ابل نساء.webp"
+    },
+    {
+        "id": 5,
+        "name": "Rolex / Sliver / Women",
+        "price": 120,
+        "image": "images/رولكس1.webp"
+    },
+    {
+        "id": 6,
+        "name": "Apple / Blue / Men",
+        "price": 120,
+        "image": "images/ابل رجال3.jpg"
+    }
+]
