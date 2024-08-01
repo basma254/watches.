@@ -1055,6 +1055,9 @@ footer{
     #main .main-text{
         width: 96%;
     }
+    #main .main-text a{
+        width: 80px;
+    }
     .Product-grid-2 .Product-grid-text strong{
         font-size: 2.3rem;
     }
@@ -1074,7 +1077,7 @@ footer{
         width: 63px;
     }
     .Product-grid-half .Product-grid-box img{
-        width: 70px;
+        width: 60px;
     }
     
 }
