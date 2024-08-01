@@ -380,7 +380,7 @@ header a:hover{
     }
     header a{
         font-size:8px ;
-        width: 84px;
+        width: 86px;
         
         
     }
@@ -391,8 +391,8 @@ header a:hover{
         width: 30px;
     }
     header .iconCart .totalQuantity{
-        width: 15px;
-        height: 15px;
+        width: 18px;
+        height: 18px;
         margin-right: 15px;
     }
     .listProduct .item button{
