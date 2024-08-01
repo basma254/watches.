@@ -1046,20 +1046,27 @@ footer{
         grid-template-columns: 1fr;
     }
     #main .main-img{
-        width: 300px;
+        width: 380px;
         text-align: center;
         padding-left: 90px;
         height: auto;
         max-width: 100%;
     }
     #main .main-text{
-        width: 90%;
+        width: 95%;
     }
     .Product-grid-2 .Product-grid-text strong{
         font-size: 2.3rem;
     }
     .Product-grid-2 .Product-grid-text span{
         font-size: 2rem;
+    }
+    .Product-grid-half .Product-grid-box strong{
+        font-size: 8px;
+
+    }
+    .Product-grid-half .Product-grid-box a{
+        width: 63px;
     }
 }
 
